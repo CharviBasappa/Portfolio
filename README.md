@@ -15,7 +15,7 @@ Make sure you have the following installed on your system:
 3. Install dependencies ->
    ```
    npm install
-5. Run application (Application will start at [http://localhost:3000] ->
+5. Run application (Application will start at [http://localhost:3000]) ->
    ```
    npm start
 
@@ -25,7 +25,9 @@ Make sure you have the following installed on your system:
   HTML5 & CSS3: For structuring and styling the website.
   JavaScript (ES6+): For logic and interactivity.
 
-Project Structure
+# **Project Structure**
+```plaintext
+
 portfolio/
 ├── public/          # Static assets
 ├── src/             # Source files (components, assets, and logic)
