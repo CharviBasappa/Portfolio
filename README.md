@@ -1,5 +1,5 @@
-# **PORTFOLIO WEBSITE**
-This is a React.js-based portfolio website designed to showcase projects, skills, and experiences with a modern, responsive user interface.
+# **Portfolio Website**
+This is a React.js based portfolio website designed to showcase projects, skills, and experiences with a modern, responsive user interface.
 
 ## **Prerequisites**
 Make sure you have the following installed on your system: <br>
@@ -19,13 +19,13 @@ Node.js (Download from [Node.js Official Website](https://nodejs.org/en)) - Incl
    ```
    npm start
 
-# **Technologies Used**
+## **Technologies Used**
   React.js: Frontend framework for building the user interface.
   Node.js & npm: For managing dependencies and running the project.
   HTML5 & CSS3: For structuring and styling the website.
   JavaScript (ES6+): For logic and interactivity.
 
-# **Project Structure**
+## **Project Structure**
 ```plaintext
 
 portfolio/
