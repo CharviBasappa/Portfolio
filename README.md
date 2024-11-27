@@ -1,17 +1,25 @@
-PORTFOLIO WEBSITE
+# **PORTFOLIO WEBSITE**
 This is a React.js-based portfolio website designed to showcase projects, skills, and experiences with a modern, responsive user interface.
 
-Prerequisites
+## **Prerequisites**
 Make sure you have the following installed on your system:
   Node.js (Download from [Node.js Official Website](https://nodejs.org/en)) - Includes npm, which is required to manage dependencies.
 
-Steps to Set up and run Portfolio:-
-1. Create new React App -> npx create-react-app portfolio
-   cd portfolio
-2. Install dependencies -> npm install
-3. Run application (Application will start at [http://localhost:3000] -> npm start
+---
 
-Technologies Used
+## **Steps to Set up and run Portfolio:-**
+1. Create new React App ->
+   ```
+   npx create-react-app portfolio
+   cd portfolio
+3. Install dependencies ->
+   ```
+   npm install
+5. Run application (Application will start at [http://localhost:3000] ->
+   ```
+   npm start
+
+# **Technologies Used**
   React.js: Frontend framework for building the user interface.
   Node.js & npm: For managing dependencies and running the project.
   HTML5 & CSS3: For structuring and styling the website.
