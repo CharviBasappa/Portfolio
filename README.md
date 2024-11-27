@@ -3,7 +3,8 @@ This is a React.js-based portfolio website designed to showcase projects, skills
 
 ## **Prerequisites**
 Make sure you have the following installed on your system:
-  Node.js (Download from [Node.js Official Website](https://nodejs.org/en)) - Includes npm, which is required to manage dependencies.
+
+# Node.js (Download from [Node.js Official Website](https://nodejs.org/en)) - Includes npm, which is required to manage dependencies.
 
 ---
 
